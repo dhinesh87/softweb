@@ -898,11 +898,15 @@ Building No.14,DHINESH DEVELOP CITY Phase-I SECUNDERABAD HR IN 188
 </html>
 
 ```
-
 ## OUTPUT:
-![alt text](<../Screenshot 2024-05-08 235521.png>)
-![alt text](<../Screenshot 2024-05-08 235537.png>)
-![alt text](<../Screenshot 2024-05-08 235556.png>)
-![alt text](<../Screenshot 2024-05-08 235647.png>)
-## RESULT:
+![home pnj](https://github.com/dhinesh87/softweb/assets/146917182/2dda779c-87ff-42c6-ae60-4bb644388f4e)
+
+![product pnj](https://github.com/dhinesh87/softweb/assets/146917182/0184b283-b9f5-4a91-ad90-666180e230bf)
+
+![people pnj](https://github.com/dhinesh87/softweb/assets/146917182/3c3bc107-e36b-4927-bd79-2234c083362a)
+
+![contact pnj](https://github.com/dhinesh87/softweb/assets/146917182/63d01ac8-487a-471a-8da9-0bd21f4f61c7)
+
+## RESULT
+
 The program for designing software company website using HTML and CSS is completed successfully.
